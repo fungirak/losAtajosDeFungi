@@ -43,6 +43,15 @@
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
 }
 
+.cambio-version{visibility: hidden;}
+@media only screen and (max-width: 792px) {
+    .cambio-version {
+      visibility: visible;  
+    }
+    
+}
+
+
 ::-webkit-scrollbar {
     width: 12px;
 }
