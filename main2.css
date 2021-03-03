@@ -6,9 +6,3 @@ html{
 ::-webkit-scrollbar{
     background-color: transparent;
 }
-
-@media all and (display-mode: standalone) {
-    body {
-      margin: 0;
-    }
-  }
