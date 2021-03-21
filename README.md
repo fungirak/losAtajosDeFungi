@@ -1,1 +1,2 @@
-
+LOS ATAJOS DE FUNGI, Sitio web extraoficial de contenido relacionado con los primeros pasos en ingeniería en informática.
+Este conjunto de páginas web no fueron creadas bajo patrones de diseño adecuados. Si te interesa colaborar con el proyecto,  contáctate con fungi y  comienza a modular cada parte del sitio.  La idea es  migrarlo a vue o react, pero no es realmente necesario, con modularlo es más que suficiente. De todos modos, estamos en 2021, asi que de todos modos lo migraremos en algún momento a vue.js o react.js . Gracias por leer este mensaje, que tengas un buen día!
